@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937001895165",
+    "project_id": "projeto-gerenciador-4a9f9",
+    "storage_bucket": "projeto-gerenciador-4a9f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937001895165:android:0f8a3436e1240ca505aa94",
+        "android_client_info": {
+          "package_name": "com.example.projeto_gerenciador_de_encomenda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXI9Ckkr8y90dAuHFf0kPP7D1eFWx0J38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
